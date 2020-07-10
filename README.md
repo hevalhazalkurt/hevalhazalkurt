@@ -1,4 +1,4 @@
-<center>👋 hello, I'm Heval</center>
+<p style="text-align: center;"> # 👋 hello, I'm Heval </p>
 <br>
 
 🏷 known as fictionhead. blue. developer. filmmaker. entrepreneur.<br>

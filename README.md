@@ -1,13 +1,14 @@
 # 👋 hello, I'm Heval
+<br>
 
-🏷 known as fictionhead. blue. developer. filmmaker. entrepreneur.
-🧠 focuses on Python. Django. Flask. Pandas.
-🖥 develops webapps. digital projects. back-end works.
-💪 codes for contributing to life. contributing to the community.
-🎬 creates, writes and shoots film. commercial. documentary. short film. video.
-🏆 awarded by film festivals. Republic of Turkey Ministry of Culture. TÜRSAK.
-💙 loves being multidisciplinary. problem-solving. challenging to herself.
-🧩 interests in psychology. art. music. literature. aviation.
+🏷 known as fictionhead. blue. developer. filmmaker. entrepreneur.<br>
+🧠 focuses on Python. Django. Flask. Pandas.<br>
+🖥 develops webapps. digital projects. back-end works.<br>
+💪 codes for contributing to life. contributing to the community.<br>
+🎬 creates, writes and shoots film. commercial. documentary. short film. video.<br>
+🏆 awarded by film festivals. Republic of Turkey Ministry of Culture. TÜRSAK.<br>
+💙 loves being multidisciplinary. problem-solving. challenging to herself.<br>
+🧩 interests in psychology. art. music. literature. aviation.<br>
 
 <!--
 **hevalhazalkurt/hevalhazalkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

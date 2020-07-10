@@ -10,7 +10,7 @@
 🧩 interests in psychology. art. music. literature.aviation.<br></p><br>
 
 <p align='center'>
-<a href="https://github.com/hevalhazalkurt" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
+<a href="http://hevalhazalkurt.com" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
 <a href="https://www.linkedin.com/in/hevalhazalkurt/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
 <a href="https://www.instagram.com/hevalhazalkurt/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 <a href="https://twitter.com/hevalandsteven" target="_blank" title="Twitter"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg"></a>

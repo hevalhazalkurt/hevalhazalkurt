@@ -8,7 +8,7 @@
 🏆 awarded by film festivals. Republic of Turkey Ministry of Culture. TÜRSAK.<br>
 💙 loves being multidisciplinary. problem-solving. challenging to herself.<br>
 🧩 interests in psychology. art. music. literature.aviation.<br>
-📌 Develops at Tabby Cat.</p><br>
+📌 Develops at eNote and Tabby Cat.</p><br>
 
 <p align='center'>
 <a href="http://hevalhazalkurt.com" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>

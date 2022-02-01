@@ -22,5 +22,5 @@
 </p>
 
 
-[![Heval Hazal Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
 

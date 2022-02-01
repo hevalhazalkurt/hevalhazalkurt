@@ -21,4 +21,6 @@
 <a href="https://www.hackerrank.com/hevalhazalkurt" target="_blank" title="HackerRank"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg"></a>
 </p>
 
-[![Hevak Hazal Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
+<p align='center'>
+[![Heval Hazal Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
+</p>

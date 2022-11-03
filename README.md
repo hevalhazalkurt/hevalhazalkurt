@@ -21,6 +21,13 @@
 <a href="https://www.hackerrank.com/hevalhazalkurt" target="_blank" title="HackerRank"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg"></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hevalhazalkurt/count.svg" />
+</p>
 
+<div align="center">
+  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
 
+</div>

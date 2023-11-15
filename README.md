@@ -27,8 +27,3 @@
   <img src="https://profile-counter.glitch.me/hevalhazalkurt/count.svg" />
 </p>
 
-<div align="center">
-  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hevalhazalkurt)](https://github.com/hevalhazalkurt/github-readme-stats)
-
-</div>
